@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'W95FA';
+  src: local('W95FA'),
+  url('./fonts/W95FA.otf') format('otf');
+}
